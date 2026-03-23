@@ -1,12 +1,12 @@
-END TO END SURVEY DATA ANALYSIS SYSTEM
+## END TO END SURVEY DATA ANALYSIS SYSTEM
 
-Project Overview
+# Project Overview
 
 The Online Learning Experience Survey System is a full-stack desktop application developed using Python and MySQL. It allows users to submit survey responses related to online learning, while providing administrators with an interactive analytics dashboard to visualize insights.
 
 This project demonstrates end-to-end data handling, from data collection and storage to analysis and visualization.
 
-🚀 Features
+# 🚀 Features
 
   🔐 User Registration & Login System
   🔒 Secure Password Hashing using SHA-256
@@ -18,7 +18,7 @@ This project demonstrates end-to-end data handling, from data collection and sto
   🕒 Timestamp tracking for each response
   🛠️ Tech Stack
 
-Category	Tools Used
+# Category	Tools Used
 
   Programming:	Python
   GUI:	Tkinter
@@ -26,7 +26,7 @@ Category	Tools Used
   Data Analysis:	Pandas, Jupyter Notebook
   Visualization:	Matplotlib, Power BI
 
-  📁 Project Structure
+ # 📁 Project Structure
 
   Online-Learning-Survey-System/
   │
@@ -44,7 +44,7 @@ Category	Tools Used
   ├── database.sql
   └── README.md
 
-📊 Dashboard Insights
+# 📊 Dashboard Insights
 
 The Admin Dashboard provides:
 
@@ -55,20 +55,20 @@ The Admin Dashboard provides:
 📌 Learning Mode Preference
 📌 Daily Learning Time Insights
 
-📈 Data Analysis (Jupyter Notebook)
+# 📈 Data Analysis (Jupyter Notebook)
 
   Performed Exploratory Data Analysis (EDA)
   Cleaned and transformed raw survey data
   Generated insights using Pandas
   Visualized trends using Matplotlib
 
-📊 Power BI Dashboard
+# 📊 Power BI Dashboard
 
   Built an interactive dashboard with filters and KPIs
   Created visual insights for decision-making
   Represented trends using charts and slicers
 
-🧪 Sample Use Case
+# 🧪 Sample Use Case
 
   User registers and logs in
   Fills out survey form
@@ -76,7 +76,7 @@ The Admin Dashboard provides:
   Admin logs in
   Admin views insights via dashboard
   
-🎯 Key Learnings
+# 🎯 Key Learnings
 
   GUI Development using Tkinter
   Database Integration with MySQL
